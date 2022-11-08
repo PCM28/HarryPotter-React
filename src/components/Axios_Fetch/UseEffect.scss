@@ -1,0 +1,17 @@
+.cartelera{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+}
+.movie{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    margin-top: 50px;
+}
+img{
+    padding: 0 10px;
+}
